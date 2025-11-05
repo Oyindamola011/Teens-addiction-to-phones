@@ -18,9 +18,18 @@ Teens phone addiction and behavioural patterns analysis : The primary dataset us
  - Analyze the relationship between phone addiction and key behavioral factors such as:
  -  Academic performance
  -  Sleep hours
- -  Use of educational, social media, and gaming apps
- -  Family communication quality
- -  Self-esteem, anxiety, and depression levels
+ -  Use of educational, social media and gaming apps
+ -  Family communication 
+ -  Self-esteem, anxiety and depression levels
  -  Investigate phone usage trends (weekdays vs weekends, hours spent, number of phone checks per day).
  -   Understand how parental control affects addiction levels.
- 
+   
+ ### Data cleaning 
+ - Loading and inspection of dataset into the IDE
+ - Handling missing values
+ - Dropping of duplicates
+ - Convert & correct data types,ensure columns that should be numbers are numeric and categorical columns are text/category.
+ - Standardize text in order for grouping and counts to be more accurate.
+ - Create helpful new columns to make comparisons and grouping easier and more meaningful.
+
+### Exploratory data analysis
