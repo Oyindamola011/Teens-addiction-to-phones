@@ -33,3 +33,18 @@ Teens phone addiction and behavioural patterns analysis : The primary dataset us
  - Create helpful new columns to make comparisons and grouping easier and more meaningful.
 
 ### Exploratory data analysis
+EDA is exploring the dataset to answer key questions :
+- What is the average daily phone usage across teens
+- What is the relationship between screen time before bed and sleep hours
+- what is the relationship between addiction level and family communication
+- What is the daily phone usage on weekdays and weekends
+- How it affects based on school grades and academic performance
+- the most used purpose of phone by teens (social media,education , gaming ,browsing and others)
+
+  ### Data analysis
+  ```Python
+     print(df.head())
+  df.drop_duplicates(inplace=True)
+  for col in ['gender','location','school_grade']:
+ df[col] = df[col].fillna('Unknown')
+  
