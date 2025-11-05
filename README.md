@@ -1,2 +1,2 @@
 # Teens-addiction-to-phones
-##Phone Addiction case study Teens
+## Phone Addiction case study in Teens
