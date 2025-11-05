@@ -1,2 +1,26 @@
-# Teens-addiction-to-phones
-## Phone Addiction case study in Teens
+# Teens phone addiction and behavioural patterns analysis
+
+### Project overview
+
+This data analysis explores more about the usage of phone by teens and how it has affect different areas of their lives including the academic performance,sleep habits,family communication and also the mental health like anxiety level,depression level and self esteem.
+ The goal is to identify the relationship and patterns in how addiction of phone has influenced the behaviour and well being of the teens.
+
+ ### Data sources
+Teens phone addiction and behavioural patterns analysis : The primary dataset used for this analysis is the "Teens_addiction_to_phones.csv" containing detailed infromation about how phone addiction has influenced the life of teens.
+
+### Tools and Libraries
+- Python - Analyze the data
+- Pandas - Data cleaning and revealing insights.
+- Matplotlib & Seaborn - Data visualization
+- Numpy - To perform and show the correlations between variables
+
+ ### Objectives
+ - Analyze the relationship between phone addiction and key behavioral factors such as:
+ -  Academic performance
+ -  Sleep hours
+ -  Use of educational, social media, and gaming apps
+ -  Family communication quality
+ -  Self-esteem, anxiety, and depression levels
+ -  Investigate phone usage trends (weekdays vs weekends, hours spent, number of phone checks per day).
+ -   Understand how parental control affects addiction levels.
+ 
